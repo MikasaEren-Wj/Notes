@@ -1,2 +1,2 @@
 # Notes
-一些学习笔记
+some study notes
